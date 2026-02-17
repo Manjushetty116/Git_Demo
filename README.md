@@ -1,2 +1,3 @@
 # Git_Demo
-Git learning demo
+Learning git for Playwright.
+written by - Manjushetty
